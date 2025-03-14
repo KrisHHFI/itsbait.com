@@ -4,5 +4,5 @@ I am currently working on a website which will be able to detect whether an imag
 
 <br/>
 
-### Project screenshot (11/03/2025)
+### Project screenshot (14/03/2025)
 <img src="PromoImage2.png"/>
