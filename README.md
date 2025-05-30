@@ -18,11 +18,9 @@ I am currently working on an AI image detector site called ItsBait.com. I began 
 <br/>
 
 <details>
-<summary>Testing</summary>
+<summary>Testing (Vitest)</summary>
   
 <br/>
-
-### Vitest
   
 In the project I am using Vitest for unit testing. The React project was built using Vite, so Vitest (which is a Vite package) seemed like the obvious choice. I have established a series of tests for the project. My tests ensure that all the different pages and their content render and that the website navigation works correctly.
     
