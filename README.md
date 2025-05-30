@@ -28,12 +28,18 @@ In the project I am using Vitest for unit testing. The React project was built u
   
 <br/>
   
-<img src="vitest-test-results.png" alt="vitest files and test results">
+<img src="vitest-test-results.png" alt="Vitest files and test results">
 
 <sub><i>Screenshot of the test files and their results</i></sub>
 
+<br/>
+
+With Vitest you can run the tests continuously in the background. Whenever you make a change to a file the tests will run again. If the file you are working with is implicated in certain tests, then only those specific tests will run. Otherwise, all the tests will run. This means that you can work on the project and not worry about breaking things.
+
+<br/>
+  
+<img src="specific-vitest-test-results.png" alt="Image showing specific test files being ran">
+
+<sub><i>Screenshot showing only relevant test files being ran</i></sub>
+
 </details>
-
-
-
-
