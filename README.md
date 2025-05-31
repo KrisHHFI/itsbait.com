@@ -37,4 +37,8 @@ With Vitest you can run the tests continuously in the background. Whenever you m
 
 <sub><i>Screenshot showing only relevant test files being ran</i></sub>
 
+<br/><br/>
+
+<img src="individual-vitest-test-results.png" alt="Image showing specific test results" width="600"/>
+
 </details>
