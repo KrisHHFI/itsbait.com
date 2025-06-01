@@ -6,14 +6,29 @@
 
 <br/>
 
-I am currently working on an AI image detector site called ItsBait.com. I began the project on the 03/03/2025.
+I am currently working on an AI image detector site called [ItsBait.com](https://itsbait.com/). I began the project on the 03/03/2025.
 
 <br/>
 
-## Links
-[ItsBait.com](https://itsbait.com/)<br/>
+## Social Links
 [YouTube](https://www.youtube.com/@its_bait)<br/>
 [Patreon](https://www.patreon.com/c/Its_BAIT)<br/>
+
+<br/><br/>
+
+## Design
+
+### Project Design & Layout (Figma)
+
+<details><summary></summary>
+  
+<br/>
+
+[Figma Project](https://www.figma.com/design/syI8LP7xcRRHivfSHIyY49/It-s-Bait?node-id=0-1&t=ol3NF4RAXrJtyyDr-1)
+
+<br/>
+
+</details>
 
 <br/><br/>
 
