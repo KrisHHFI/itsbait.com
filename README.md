@@ -26,6 +26,12 @@ I am currently working on an AI image detector site called [ItsBait.com](https:/
 
 [Figma Project](https://www.figma.com/design/syI8LP7xcRRHivfSHIyY49/It-s-Bait?node-id=0-1&t=ol3NF4RAXrJtyyDr-1)
 
+<br/>
+
+<img src="figma-mobile-layout.png" alt="Project mobile layout in Figma" width="600"/>
+
+<sub><i>Project mobile layout in Figma</i></sub>
+
 </details>
 
 <br/>
