@@ -32,6 +32,8 @@ I am currently working on an AI image detector site called [ItsBait.com](https:/
 
 <sub><i>Project mobile layout in Figma</i></sub>
 
+<br/>
+
 </details>
 
 ### Logo (Photoshop)
