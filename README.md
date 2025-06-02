@@ -40,7 +40,7 @@ I am currently working on an AI image detector site called [ItsBait.com](https:/
   
 <br/>
 
-The project logo was designed in Photoshop. I use Photoshop because it is a familiar tool due to my background in photography. I work in a non-destructive way, taking a layered approach.  I created my own font to avoid potential future copyright issues.
+The project logo was designed in Photoshop. I use Photoshop because it is a familiar tool due to my background in photography. I work in a non-destructive way, taking a layered approach.  I also created my own font to avoid potential future copyright issues.
 
 <img src="project-logo-photoshop.png" alt="Project logo in Photoshop" width="600"/>
 
