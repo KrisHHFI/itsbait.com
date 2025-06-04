@@ -66,7 +66,11 @@ I am using Robot Framework for functional tests. With Robot Framework I can run 
 
 <br/>
 
-Currently, I have a generic function which goes to the site, presses the upload button and then uploads an image (according to the passed file location). Then, the tests check for image specific text in the Bait report.
+Currently, I have a generic function which goes to the site, presses the upload button and then uploads an image (according to the passed file location). Then, the test checks for image specific text in the Bait report.
+
+<img src="robot-framework-test-result.png" alt="Results from one of the .robot test files." width="600"/>
+
+<sub><i>Screenshot of one of the .robot test files.</i></sub>
 
 <br/>
 
