@@ -6,7 +6,7 @@
 
 <br/>
 
-I am currently working on an AI image detector site called [ItsBait.com](https://itsbait.com/). I began the project on the 03/03/2025.
+I am currently working on an AI image detector site called [ItsBait.com](https://itsbait.com/). I began the project on the 03/03/2025. Please note that this repository may not be up to date. To get the latest news on the project, checkout the website or the YouTube channel.
 
 <br/>
 
@@ -14,9 +14,25 @@ I am currently working on an AI image detector site called [ItsBait.com](https:/
 [YouTube](https://www.youtube.com/@its_bait)<br/>
 [Patreon](https://www.patreon.com/c/Its_BAIT)<br/>
 
-<br/><br/>
+<br/>
 
 ## Design
+
+### Logo (Photoshop)
+
+<details><summary></summary>
+  
+<br/>
+
+The project logo was designed in Photoshop. I use Photoshop because it is a familiar tool due to my background in photography. I work in a non-destructive way, taking a layered approach.  I also created my own font to avoid potential future copyright issues.
+
+<img src="project-logo-photoshop.png" alt="Project logo in Photoshop" width="600"/>
+
+<sub><i>Project logo in Photoshop</i></sub>
+
+<br/>
+
+</details>
 
 ### Project Design & Layout (Figma)
 
@@ -33,20 +49,6 @@ I am currently working on an AI image detector site called [ItsBait.com](https:/
 <sub><i>Project mobile layout in Figma</i></sub>
 
 <br/>
-
-</details>
-
-### Logo (Photoshop)
-
-<details><summary></summary>
-  
-<br/>
-
-The project logo was designed in Photoshop. I use Photoshop because it is a familiar tool due to my background in photography. I work in a non-destructive way, taking a layered approach.  I also created my own font to avoid potential future copyright issues.
-
-<img src="project-logo-photoshop.png" alt="Project logo in Photoshop" width="600"/>
-
-<sub><i>Project logo in Photoshop</i></sub>
 
 </details>
 
