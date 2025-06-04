@@ -62,7 +62,7 @@ The project logo was designed in Photoshop. I use Photoshop because it is a fami
   
 <br/>
   
-I am using Robot Framework for functional tests. With Robot Framework I can run tests which simulate user behavior. My current tests upload images and then ensure that specific text is found in the report. The tests themselves are in another one of my [repositories](https://github.com/KrisHHFI/Its-Bait-Robot-Tests).
+I am using Robot Framework for functional tests. With Robot Framework I can run tests which simulate user behavior. With this software, I can watch live as the test unfolds on my site. My current tests upload images and then ensure that specific text is found in the report. The tests themselves are in another one of my [repositories](https://github.com/KrisHHFI/Its-Bait-Robot-Tests).
 
 <br/>
 
