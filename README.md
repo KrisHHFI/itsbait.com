@@ -52,7 +52,9 @@ The project logo was designed in Photoshop. I use Photoshop because it is a fami
 
 <br/>
 
-## Testing (Vitest)
+## Testing
+
+### Vitest Unit Tests
 
 <details><summary></summary>
   
