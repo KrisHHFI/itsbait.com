@@ -54,6 +54,18 @@ The project logo was designed in Photoshop. I use Photoshop because it is a fami
 
 ## Testing
 
+### Robot Framework Functional Tests
+
+<details><summary></summary>
+  
+<br/>
+  
+I am using Robot Framework for functional tests. I have the tests featured in another [repository](https://github.com/KrisHHFI/Its-Bait-Robot-Tests).
+
+<br/>
+
+</details>
+
 ### Vitest Unit Tests
 
 <details><summary></summary>
