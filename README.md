@@ -56,7 +56,7 @@ The project logo was designed in Photoshop. I use Photoshop because it is a fami
 
 ## Testing
 
-### Robot Framework Functional Tests
+### Functional Tests (Robot Framework)
 
 <details><summary></summary>
   
@@ -76,7 +76,7 @@ Currently, I have a generic function which goes to the site, presses the upload 
 
 </details>
 
-### Vitest Unit Tests
+### Unit Tests (Vitest)
 
 <details><summary></summary>
   
