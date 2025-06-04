@@ -66,6 +66,10 @@ I am using Robot Framework for functional tests. With Robot Framework I can run 
 
 <br/>
 
+Currently, I have a generic function which goes to the site, presses the upload button and then uploads an image (according to the passed file location). Then, the tests check for image specific text in the Bait report.
+
+<br/>
+
 </details>
 
 ### Vitest Unit Tests
