@@ -6,7 +6,7 @@
 
 <br/>
 
-I am currently working on an AI image detector site called [ItsBait.com](https://itsbait.com/). I began the project on the 03/03/2025. Please note that this repository may not be up to date. To get the latest news on the project, checkout the website or the YouTube channel.
+I previously worked on an AI image detector site called [ItsBait.com](https://itsbait.com/). I began the project on the 03/03/2025. Please note that this repository may not be up to date. To get the latest news on the project, checkout the website or the YouTube channel.
 
 <br/>
 
