@@ -6,7 +6,7 @@
 
 <br/>
 
-I previously worked on an AI image detector site called [ItsBait.com](https://itsbait.com/). I began the project on the 03/03/2025. Please note that this repository may not be up to date. To get the latest news on the project, checkout the website or the YouTube channel.
+I previously worked on an AI image detector site called [ItsBait.com](https://itsbait.com/). I began the project on the 03/03/2025. The site enables users to upload images and acertain whether the image was made with AI or not. Meta data checks take place as well as a bespoke RBG channel analysis. The project was discontinued due to low engagement.
 
 <br/>
 
