@@ -1,4 +1,4 @@
-# ItsBait.com
+# ItsBait.com [DISCONTINUED]
 
 <img src="PromoImage.png" width="1000"/>
 
