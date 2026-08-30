@@ -10,12 +10,6 @@ I previously worked on an AI image detector site called [ItsBait.com](https://it
 
 <br/>
 
-## Social Links
-[YouTube](https://www.youtube.com/@its_bait)<br/>
-[Patreon](https://www.patreon.com/c/Its_BAIT)<br/>
-
-<br/>
-
 ## Design
 
 ### Logo (Photoshop)
